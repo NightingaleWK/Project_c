@@ -29,8 +29,5 @@
     <ClCompile Include="Project_1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="sum.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
